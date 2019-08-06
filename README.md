@@ -1,6 +1,6 @@
 # tasksboss
 
-A simple task management application with react and Laravel
+A simple task management application
 
 ## Getting Started
 
